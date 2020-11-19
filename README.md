@@ -1,4 +1,4 @@
-#Family Tree Implementation
+# Family Tree Implementation
 
 The given string has pipe delimited nodes that represent family members in a family tree. Each node is a CSV with the values being "parent_id, node_id, node_name". Write a method that takes an input string and return a single result that represents the data as a hierarchy (root, children, siblings, etc). 
 
@@ -9,7 +9,7 @@ Output: Displayed the output in the hierarchical order.
 
 ## How to Run
 
-1. We can provide the input in the variable named "sampleInput" FamilyTree.java file.
+1. We can change the input in the variable named "sampleInput" FamilyTree.java file.
 2. Execute the main available in FamilyTree.java file to see the output.
 
 
